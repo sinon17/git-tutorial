@@ -1,3 +1,3 @@
 Git tutorial
-It's Git tutorial
+It is Git tutorial
 test(feature-A) 
