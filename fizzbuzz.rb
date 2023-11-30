@@ -5,6 +5,8 @@
     print "Fizz"
   elsif n % 5 == 0
     print "Buzz"
+  elsif n % 7 == 0
+    print "Git"
   else
     printf("%d", n)
   end
